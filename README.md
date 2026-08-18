@@ -1,1 +1,3 @@
-# omarchy-global-menu-bridge
+﻿# omarchy-global-menu-bridge
+
+Install to /home/*username*/.local/bin
